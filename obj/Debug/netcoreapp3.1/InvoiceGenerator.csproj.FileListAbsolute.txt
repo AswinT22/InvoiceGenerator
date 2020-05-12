@@ -1,0 +1,17 @@
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.exe
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.deps.json
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.runtimeconfig.json
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.runtimeconfig.dev.json
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.dll
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.pdb
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csprojAssemblyReference.cache
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csproj.CoreCompileInputs.cache
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.AssemblyInfoInputs.cache
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.AssemblyInfo.cs
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.dll
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.pdb
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.genruntimeconfig.cache
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+E:\draftconsole\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csproj.CopyComplete
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\draftconsole\InvoiceGenerator\bin\Debug\netcoreapp3.1\System.Json.dll

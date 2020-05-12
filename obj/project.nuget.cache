@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6/kAZUDhJTMvNVxWLsiYs2xnsLC+H68SMroKwLbjWTlu9ZzBSi/6t95VVw7Ux5aDRzx4N6h7v1AVybOg0Dw3g==",
+  "success": true,
+  "projectFilePath": "E:\\draftconsole\\InvoiceGenerator\\InvoiceGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aswin\\.nuget\\packages\\gembox.document\\31.0.1175\\gembox.document.31.0.1175.nupkg.sha512",
+    "C:\\Users\\aswin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\aswin\\.nuget\\packages\\system.json\\4.7.0\\system.json.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

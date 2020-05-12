@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<root>
+	<invoice>
+		<name>John</name>
+		<amount>100</amount>
+	</invoice>
+</root>
