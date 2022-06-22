@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="GemBox.Document" Version="31.0.1175" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Json" Version="4.7.0" />
   </ItemGroup>
 
